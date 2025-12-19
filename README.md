@@ -1,5 +1,6 @@
 # leemysw
 👨‍💻 独立开发 | 🤖 AI 算法 | 🎓 CSU
+
 🛠️ 技术栈：Python / C++ / Go / JS
 
 🌊 在 AI 的浪潮，分享技术、产品与独立开发的思考
@@ -8,14 +9,14 @@ Do your best, leave the rest to destiny.
 
 ---
 
-## 🌎 Website
+### 🌎 Website
 
-- [HomePage](https://leemysw.top/) - 个人信息和项目展示
-- [Ideas](https://ech0.leemysw.top/) - 个人最新动态
+[👋HomePage - 个人信息](https://leemysw.top/) | [💡Ideas - 最新动态](https://ech0.leemysw.top/)
 
-## 💬 Social
+### 💬 Social
 
-- [X](https://x.com/leemysw) - X 社区
+[Github](https://github.com/leemysw) | [Twitter / X](https://x.com/leemysw)
+
 
 
 <!--
