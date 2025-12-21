@@ -26,7 +26,7 @@
 Created by [leemysw](https://www.leemysw.top)
 
 - 🌐 Website: https://www.leemysw.top
-- 💡 Ideas https://ech0.leemysw.top
+- 💡 Ideas: https://ech0.leemysw.top
 - 🐦 X/Twitter: https://x.com/leemysw
 - 🐙 Github: https://github.com/leemysws
 
