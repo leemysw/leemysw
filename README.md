@@ -20,8 +20,9 @@
 
 Created by [leemysw](https://www.leemysw.top)
 
-- 🌐 Website: https://www.leemysw.top
-- 💡 Ideas: https://ech0.leemysw.top
+- 🌐 Website: https://www.leemysw.com
+- 🍬 Apps: https://app.leemysw.com
+- 💡 Ideas: https://ech0.leemysw.com
 - 🐦 X/Twitter: https://x.com/leemysw
 - 🐙 Github: https://github.com/leemysws
 
