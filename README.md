@@ -9,7 +9,7 @@
 > 偏偏执念最盛，徒增纷扰。<br/>
 > 尽其所当尽，而不妄求其所不能；<br/>
 > 万象当前，身在其中而心不滞其间。<br/>
-> 守其分，尽其责，其余付之时序。<br/>🫟
+> 守其分，尽其责，其余付之时序。<br/>
 > 如此，既不自欺，也不怨天。
 > 
 > Be in the world, but not of it. 
@@ -24,7 +24,7 @@ Created by [leemysw](https://www.leemysw.top)
 - 🍬 Apps: https://app.leemysw.com
 - 💡 Ideas: https://ech0.leemysw.com
 - 🍀 Zuuzii: https://www.zuuzii.com
-- 🧩 Aihunter: https://aihunter.zuuzii.com
+- 🫟 Aihunter: https://aihunter.zuuzii.com
 - 🐦 X/Twitter: https://x.com/leemysw
 - 🐙 Github: https://github.com/leemysws
 
