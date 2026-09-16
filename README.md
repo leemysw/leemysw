@@ -16,10 +16,6 @@
 
 ---
 
-## Author
-
-Created by [leemysw](https://www.leemysw.com)
-
 - 🌐 Website: https://www.leemysw.com
 - 🍬 Apps: https://app.leemysw.com
 - 💡 Ideas: https://ech0.leemysw.com
