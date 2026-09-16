@@ -18,7 +18,7 @@
 
 ## Author
 
-Created by [leemysw](https://www.leemysw.top)
+Created by [leemysw](https://www.leemysw.com)
 
 - 🌐 Website: https://www.leemysw.com
 - 🍬 Apps: https://app.leemysw.com
